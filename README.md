@@ -118,12 +118,12 @@ Example which references the previous templates:
 
 ### Step 1
 
-Save [decluttering-card](https://github.com/custom-cards/decluttering-card/releases/download/latest/decluttering-card.js) to `<config directory>/www/decluttering-card.js` on your Home Assistant instanse.
+Save [decluttering-card](https://github.com/custom-cards/decluttering-card/releases/download/v1.0.0/decluttering-card.js) to `<config directory>/www/decluttering-card.js` on your Home Assistant instanse.
 
 **Example:**
 
 ```bash
-wget https://raw.githubusercontent.com/custom-cards/decluttering-card/master/dist/decluttering-card.js
+wget https://github.com/custom-cards/decluttering-card/releases/download/v1.0.0/decluttering-card.js
 mv decluttering-card.js /config/www/
 ```
 
